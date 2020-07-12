@@ -3,7 +3,11 @@ package LoopDemo;
 public class CondtionDemo {
 
 	public static void main(String[] args) {
-
+      
+		
+		String ram = "Akhilesh";
+		
+		// String a = ram.length();
 
 		
 		// <30 failed
