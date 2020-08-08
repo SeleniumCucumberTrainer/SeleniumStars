@@ -1,6 +1,6 @@
 package MultiMethodCall;
 
-public class WebDriver {
+public class WebDriverDemo {
 	
 	
 	public Manage manage(){
@@ -11,7 +11,7 @@ public class WebDriver {
 	
 	public static void main(String[] args) {
 		
-		WebDriver driver = new WebDriver();
+		WebDriverDemo driver = new WebDriverDemo();
 		
 		driver.manage().window().maximize();
 		
