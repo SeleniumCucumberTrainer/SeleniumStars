@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83787" started-at="2020-08-23T14:23:17Z" finished-at="2020-08-23T14:24:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83787" started-at="2020-08-23T14:23:17Z" finished-at="2020-08-23T14:24:41Z">
+      <class name="DataProviderDemo.DataProviderDemo">
+        <test-method status="PASS" signature="doLoginTest(java.lang.String, java.lang.String)[pri:0, instance:DataProviderDemo.DataProviderDemo@20e2cbe0]" name="doLoginTest" duration-ms="32073" started-at="2020-08-23T19:53:18Z" data-provider="getData" finished-at="2020-08-23T19:53:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumbesttrainer@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[itcm@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="closeBroser()[pri:0, instance:DataProviderDemo.DataProviderDemo@20e2cbe0]" name="closeBroser" is-config="true" duration-ms="440" started-at="2020-08-23T19:53:50Z" finished-at="2020-08-23T19:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+        <test-method status="PASS" signature="doLoginTest(java.lang.String, java.lang.String)[pri:0, instance:DataProviderDemo.DataProviderDemo@20e2cbe0]" name="doLoginTest" duration-ms="18415" started-at="2020-08-23T19:53:50Z" data-provider="getData" finished-at="2020-08-23T19:54:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akhileshg50@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adasdasd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="closeBroser()[pri:0, instance:DataProviderDemo.DataProviderDemo@20e2cbe0]" name="closeBroser" is-config="true" duration-ms="4211" started-at="2020-08-23T19:54:09Z" finished-at="2020-08-23T19:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+        <test-method status="PASS" signature="doLoginTest(java.lang.String, java.lang.String)[pri:0, instance:DataProviderDemo.DataProviderDemo@20e2cbe0]" name="doLoginTest" duration-ms="23840" started-at="2020-08-23T19:54:13Z" data-provider="getData" finished-at="2020-08-23T19:54:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lav@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lav]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="closeBroser()[pri:0, instance:DataProviderDemo.DataProviderDemo@20e2cbe0]" name="closeBroser" is-config="true" duration-ms="4092" started-at="2020-08-23T19:54:37Z" finished-at="2020-08-23T19:54:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBroser -->
+      </class> <!-- DataProviderDemo.DataProviderDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
